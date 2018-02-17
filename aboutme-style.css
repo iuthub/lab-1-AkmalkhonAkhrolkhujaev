@@ -1,0 +1,27 @@
+h1{
+	font-family: sans-serif; 
+	font-size: 35pt; 
+	text-align: center; 
+	font-style: Verdana;
+	color: red;
+	font-family: Garamond, "Times New Roman", serif;
+	background-color: #5445;
+	font-weight: bold;
+	}
+h2 { 
+	color: blue;
+	font-family: sans-serif; 
+	font-size: 30pt; 
+	text-align: left; 
+	font-style: Verdana;
+	font-family: "Times New Roman";
+}
+p{
+	font-size: 20pt;
+}
+li{
+	font-size: 20pt;
+}
+body{
+	background-color: #bb55
+}
